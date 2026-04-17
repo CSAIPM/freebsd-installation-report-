@@ -1,2 +1,13 @@
 # freebsd-installation-report-
-FreeBSD Installation and Virtualization Project
+FreeBSD Installation Project
+
+This repository contains my Operating Systems project on installing and configuring FreeBSD in a virtual environment using VMware Workstation.
+
+Author:
+Desalew Gashaye
+
+Course:
+Operating Systems
+
+Year:
+2026
